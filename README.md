@@ -2,7 +2,7 @@
 - 👀 I’m interested in historical linguistics, language evolution, philology, Tocharian, Indo-European, 
 - 🌱 I’m currently learning Arawak, R,
 - 💞️ I’m looking to collaborate on all things related to language evolution
-- 📫 How to reach me gerd.carling@ling.lu.se
+- 📫 How to reach me carling@em.uni-frankfurt.de
 
 <!---
 gerdcarling/gerdcarling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
